@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 Contact me by email
+
 My account Rpubs for R projects: https://rpubs.com/lov95
 
 My website: https://rant95.github.io/
